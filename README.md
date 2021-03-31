@@ -9,7 +9,6 @@
 
 The repository is currently compatible with `tensorflow-2.0` and makes use of the Keras API using the `tensorflow.keras` library.
 
-* First, clone the repository with `git clone https://github.com/atulapra/Emotion-detection.git` and enter the cloned folder: `cd Emotion-detection`.
 
 
 * If you want to train this model or train after making changes to the model, use `python emotions.py --mode train`.
