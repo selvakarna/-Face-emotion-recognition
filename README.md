@@ -37,4 +37,6 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 
 * The emotion with maximum score is displayed on the screen.
 
+Sample Output:
+![image](https://user-images.githubusercontent.com/25522855/180682167-29668804-59f6-4452-8f4c-95d1e45322c5.png)
 
