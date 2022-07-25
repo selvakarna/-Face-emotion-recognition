@@ -38,5 +38,12 @@ The repository is currently compatible with `tensorflow-2.0` and makes use of th
 * The emotion with maximum score is displayed on the screen.
 
 Sample Output:
+Neutral 
 ![image](https://user-images.githubusercontent.com/25522855/180682167-29668804-59f6-4452-8f4c-95d1e45322c5.png)
+
+Angry 
+![image](https://user-images.githubusercontent.com/25522855/180682250-5b148d09-2c4a-44a1-89b7-7a4aa0ef0a6c.png)
+
+Sad
+![image](https://user-images.githubusercontent.com/25522855/180682270-f89c456c-4c89-4031-93f3-d1f4358c3bfb.png)
 
